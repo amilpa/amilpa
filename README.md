@@ -10,6 +10,6 @@
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: Every week i spent 5 hours tinkering with neovim
 
-<img aligh="right" alt="coding" width="400" src="https://media.tenor.com/BfprZBD7YqUAAAAC/pusheen-animated-pusheen.gif">
+<img aligh="left" alt="coding" width="400" src="https://media.tenor.com/BfprZBD7YqUAAAAC/pusheen-animated-pusheen.gif">
 
 
