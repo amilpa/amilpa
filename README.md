@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 
 - 🔭 I’m currently working on a project that builds a better version of myself
@@ -10,6 +10,6 @@
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: Every week i spent 5 hours tinkering with neovim
 
-<img aligh="left" alt="coding" width="400" src="https://media.tenor.com/BfprZBD7YqUAAAAC/pusheen-animated-pusheen.gif">
+<img align="left" alt="coding" width="400" src="https://media.tenor.com/BfprZBD7YqUAAAAC/pusheen-animated-pusheen.gif">
 
 
