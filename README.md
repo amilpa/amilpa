@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on github
 - 🤔 I’m looking for help with systems development
 - 💬 Ask me about python,data structures,c programming,html
-- 📫 How to reach me: linkedin.com/in/amilpa/
+- 📫 How to reach me: https://www.linkedin.com/in/amilpa/
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: Every week i spent 5 hours tinkering with neovim
 
