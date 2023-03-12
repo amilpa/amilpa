@@ -2,10 +2,10 @@
 
 
 - 🔭 I’m currently working on a project that builds a better version of myself
-- 🌱 I’m currently learning css 
+- 🌱 I’m currently learning Reactjs 
 - 👯 I’m looking to collaborate on github
-- 🤔 I’m looking for help with systems development
-- 💬 Ask me about python,data structures,c programming,html
+- 🤔 I’m looking for help with web design
+- 💬 Ask me about python,data structures,c programming,html,css
 - 📫 How to reach me: https://www.linkedin.com/in/amilpa/
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: Every week i spent 5 hours tinkering with neovim
