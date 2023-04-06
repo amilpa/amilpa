@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a project that builds a better version of myself<br>🌱 I’m currently learning Reactjs<br>👯 I’m looking to collaborate on github<br>🤔 I’m looking for help with web design<br>💬 Ask me about python,data structures,c programming,html,css<br>📫 How to reach me: https://www.linkedin.com/in/amilpa/<br>😄 Pronouns: he/his<br>⚡ Fun fact: i am a windows 11 user
+🔭 I’m currently working on a project that builds a better version of myself<br>🌱 I’m currently learning Reactjs<br>👯 I’m looking to collaborate on github<br>🤔 I’m looking for help with web design<br>💬 Ask me about python,data structures,c programming,html,css<br>📫 How to reach me: https://www.linkedin.com/in/amilpa/<br>😄 Pronouns: he/his<br>⚡ Fun fact: I'm a Windows11 user
 
 
 ## 🌐 Socials:
